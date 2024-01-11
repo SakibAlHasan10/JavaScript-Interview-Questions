@@ -43,5 +43,10 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
 
 This means that irrespective of where the variables and functions are declared, they are moved on top of the scope. The scope can be both local and global.
 
+#### Example 1:
+<div align="center">
 <img src='./Images/Hoisting-1.jpeg' alt='Hoisting' height=''>
+</div>
+
+#### Example 2:
 <img src='./Images/Hoisting-2.webp' alt='Hoisting' height=''>
