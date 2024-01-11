@@ -1,2 +1,2 @@
-![JavaScript](js.png)
+![JavaScript](./Images/js.png)
 ### JavaScript Questions
