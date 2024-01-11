@@ -55,4 +55,8 @@ This means that irrespective of where the variables and functions are declared, 
 
 The debugger for the browser must be activated in order to debug the code. Built-in debuggers may be switched on and off, requiring the user to report faults. The remaining section of the code should stop execution before moving on to the next line while debugging.
 
-### 5.
+### 5. Difference between “ == “ and “ === “ operators.
+
+Both are comparison operators. The difference between both the operators is that “==” is used to compare values whereas, “ === “ is used to compare both values and types.
+
+### 6. 
