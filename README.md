@@ -12,3 +12,23 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
 
 
 ### 2. What are the different data types present in javascript?
+
+ To know the type of a JavaScript variable, we can use the typeof operator.
+
+1. String
+
+2. Number
+
+3. Bigint
+
+4. Boolean
+
+5. Undefined
+
+6. Null
+
+7. Symbol
+
+  2.Non-primitive types
+
+1. <b>Object</b> - Used to store collection of data.
