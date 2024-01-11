@@ -15,6 +15,8 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
 
  To know the type of a JavaScript variable, we can use the typeof operator.
 
+#### 1. Primitive types
+
 1. String
 
 2. Number
@@ -29,6 +31,7 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
 
 7. Symbol
 
-  2.Non-primitive types
+  #### 2. Non-primitive types
 
+- Primitive data types can store only a single value. To store multiple and complex values, non-primitive data types are used.
 1. <b>Object</b> - Used to store collection of data.
