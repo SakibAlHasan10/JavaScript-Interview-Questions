@@ -4,7 +4,7 @@
 # JavaScript Questions
 </div>
 
-#### 1.What is JavaScript?
+### 1.What is JavaScript?
 
 JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for web pages. It is well-known for the development of web pages, and many non-browser environments also use it.
 
@@ -35,3 +35,9 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
 
 - Primitive data types can store only a single value. To store multiple and complex values, non-primitive data types are used.
 - 1. <b>Object</b> - Used to store collection of data.
+
+### 3. Explain Hoisting in javascript.
+
+- Hoisting is the default behaviour of javascript where all the variable and function declarations are moved on top.
+
+This means that irrespective of where the variables and functions are declared, they are moved on top of the scope. The scope can be both local and global.
