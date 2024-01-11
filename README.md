@@ -1,5 +1,5 @@
 <div align="center">
-<img src='./Images/js.png' alt='github' height='80'>
+<img src='./Images/js.png' alt='JavaScript' height='80'>
 
 # JavaScript Questions
 </div>
@@ -36,8 +36,12 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
 - Primitive data types can store only a single value. To store multiple and complex values, non-primitive data types are used.
 - 1. <b>Object</b> - Used to store collection of data.
 
+
 ### 3. Explain Hoisting in javascript.
 
 - Hoisting is the default behaviour of javascript where all the variable and function declarations are moved on top.
 
 This means that irrespective of where the variables and functions are declared, they are moved on top of the scope. The scope can be both local and global.
+
+<img src='./Images/Hoisting-1.jpeg' alt='Hoisting' height=''>
+<img src='./Images/Hoisting-2.webp' alt='Hoisting' height=''>
