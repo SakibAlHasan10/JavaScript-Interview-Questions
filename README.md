@@ -50,3 +50,5 @@ This means that irrespective of where the variables and functions are declared, 
 
 #### Example 2:
 <img src='./Images/Hoisting-2.webp' alt='Hoisting' height=''>
+
+### 4. Why do we use the word “debugger” in javascript?
