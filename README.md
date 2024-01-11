@@ -21,15 +21,15 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
 
 - 2. <b>Number</b> - It represents a number and can be written with or without decimals.
 
-3. Bigint
+- 3. <b>Bigint</b> - This data type is used to store numbers which are above the limitation of the Number data type. It can store large integers and is represented by adding “n” to an integer literal.
 
-4. Boolean
+- 4. <b>Boolean</b> - It represents a logical entity and can have only two values : true or false. Booleans are generally used for conditional testing.
 
-5. Undefined
+- 5. <b>Undefined</b> - When a variable is declared but not assigned, it has the value of undefined and it’s type is also undefined.
 
-6. Null
+- 6. <b>Null</b> - It represents a non-existent or a invalid value.
 
-7. Symbol
+- 7. <b>Symbol</b> - It is a new data type introduced in the ES6 version of javascript. It is used to store an anonymous and unique value.
 
   #### 2. Non-primitive types
 
