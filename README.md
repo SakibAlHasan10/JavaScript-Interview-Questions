@@ -17,9 +17,9 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
 
 #### 1. Primitive types
 
-1. <b>String</b> -  It represents a series of characters and is written with quotes. A string can be represented using a single or a double quote.
+- 1. <b>String</b> -  It represents a series of characters and is written with quotes. A string can be represented using a single or a double quote.
 
-2. <b>Number</b> - It represents a number and can be written with or without decimals.
+- 2. <b>Number</b> - It represents a number and can be written with or without decimals.
 
 3. Bigint
 
@@ -34,4 +34,4 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
   #### 2. Non-primitive types
 
 - Primitive data types can store only a single value. To store multiple and complex values, non-primitive data types are used.
-1. <b>Object</b> - Used to store collection of data.
+- 1. <b>Object</b> - Used to store collection of data.
