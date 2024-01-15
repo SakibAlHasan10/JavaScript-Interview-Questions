@@ -6,12 +6,18 @@
 # JavaScript Questions
 </div>
 
-### 1. What is JavaScript what is the role of JavaScript engine ${\color{none} \space \color{yellow}{V.IMP.}}$$
+### 1. What is JavaScript what is the role of JavaScript engine ${\color{none} \space \color{yellow}{V.IMP.}}$
 
 
-JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for web pages. It is well-known for the development of web pages, and many non-browser environments also use it.
+JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for web pages. It is well-known for the development of web pages, and many non-browser environments also use it.  That is used for converting static web pages to interactive and dynamic web pages.
 
-JavaScript is a weakly typed language (dynamically typed). JavaScript can be used for Client-side developments as well as Server-side developments. JavaScript is both an imperative and declarative type of language. JavaScript contains a standard library of objects, like Array, Date, and Math, and a core set of language elements like operators, control structures, and statements. 
+<div align="center">
+
+#### JavaScript Engines
+
+<img src='./Images/js-enging-browser.png' alt='Hoisting' height=''>
+</div>
+<!-- JavaScript is a weakly typed language (dynamically typed). JavaScript can be used for Client-side developments as well as Server-side developments. JavaScript is both an imperative and declarative type of language. JavaScript contains a standard library of objects, like Array, Date, and Math, and a core set of language elements like operators, control structures, and statements.  -->
 
 
 ### 2. What are the different data types present in javascript?
