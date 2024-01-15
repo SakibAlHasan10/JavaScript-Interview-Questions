@@ -9,7 +9,7 @@ p{color:Black !important;}
 # JavaScript Questions
 </div>
 
-### 1. what is JavaScript what is the role of JavaScript engine <code style="color : name_color">text</code>
+### 1. what is JavaScript what is the role of JavaScript engine <code style="color : yellow">text</code>
 
 $${\color{yellow}Yellow}$$
 
