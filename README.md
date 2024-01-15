@@ -9,8 +9,8 @@ p{color:Black !important;}
 # JavaScript Questions
 </div>
 
-### 1. what is JavaScript what is the role of JavaScript engine <span style="color:#ff0000">V.IMP.</span>`#FFD600`
-- ![V.IMP.](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+### 1. what is JavaScript what is the role of JavaScript engine <code style="color : name_color">text</code>
+
 - ![V.IMP.](#FFD600)
 JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for web pages. It is well-known for the development of web pages, and many non-browser environments also use it.
 
