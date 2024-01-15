@@ -11,6 +11,8 @@ p{color:Black !important;}
 
 ### 1. what is JavaScript what is the role of JavaScript engine <code style="color : name_color">text</code>
 
+$${\color{yellow}Yellow}$$
+
 - ![V.IMP.](#FFD600)
 JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for web pages. It is well-known for the development of web pages, and many non-browser environments also use it.
 
