@@ -6,14 +6,14 @@
 # JavaScript Questions
 </div>
 
-### 1. What is JavaScript what is the role of JavaScript engine ${\color{none} \space \color{yellow}{V.IMP.}}$
+### 1. What is JavaScript what is the role of JavaScript engine? ${\color{none} \space \color{yellow}{V.IMP.}}$
 
 
 JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for web pages. It is well-known for the development of web pages, and many non-browser environments also use it.  That is used for converting static web pages to interactive and dynamic web pages.
 
-<div align="center" background="#fff">
+<div align="center">
 
-#### ${\color{none} \space \color{JavaScript Engines}{V.IMP.}}$
+#### ${\color{none} \space \color{yellow}{JavaScript Engines}}$
 
 <img src='./Images/js-enging-browser.png' alt='Hoisting' height=''>
 </div>
@@ -70,4 +70,11 @@ Both are comparison operators. The difference between both the operators is that
 
 ### 6. Difference between var and let keyword in javascript.
 
-### 7. 
+### 7. what are client-side and server-side?  ${\color{none} \space \color{yellow}{V.IMP.}}$
+
+- Client-side means that the action takes place on the user’s (the client’s) computer. Server-side means that the action takes place on a web server.
+
+<div align="center">
+<img src='./Images/client-and-server-side.png' alt='Hoisting' height=''>
+</div>
+
