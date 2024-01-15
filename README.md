@@ -99,6 +99,6 @@ Software developers, database administrators and web developers typically use se
 - 3. <b>SQL</b>: SQL, which stands for Structured Query Language, is the industry-standard language for interacting with databases. Developers can use SQL to manipulate data in databases, including updating, retrieving and deleting data.
 - 4. <b>PHP</b>: PHP, which stands for Hypertext Preprocessor, is a scripting language developers use to create websites and web applications. PHP can connect to databases to display content on websites.
 
-### What is Scope in JavaScript? ${\color{none} \space \color{yellow}{V.IMP.}}$
+### 8. What is Scope in JavaScript? ${\color{none} \space \color{yellow}{V.IMP.}}$
 
 
