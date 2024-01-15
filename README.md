@@ -72,7 +72,13 @@ Both are comparison operators. The difference between both the operators is that
 
 ### 7. what are client-side and server-side?  ${\color{none} \space \color{yellow}{V.IMP.}}$
 
-- Client-side means that the action takes place on the user’s (the client’s) computer. Server-side means that the action takes place on a web server.
+- Client-side means that the action takes place on the user’s (the client’s) computer. Server-side means that the action takes place on a web server. 
+#### client side
+- A client is a device, application, or software component that requests, and Consumer services or resources from a server.
+
+#### Server side
+
+- A server is a device, computer, or software application that provides services resources, or functions to clients.
 
 <div align="center">
 <img src='./Images/client-and-server-side.png' alt='Hoisting' height=''>
@@ -92,5 +98,7 @@ Software developers, database administrators and web developers typically use se
 - 2. <b>Python</b>: Python is an object-oriented, general-purpose programming language that developers can use for web development, application development, operating systems and other purposes. Python has applications in data science, finance, computing and other fields.
 - 3. <b>SQL</b>: SQL, which stands for Structured Query Language, is the industry-standard language for interacting with databases. Developers can use SQL to manipulate data in databases, including updating, retrieving and deleting data.
 - 4. <b>PHP</b>: PHP, which stands for Hypertext Preprocessor, is a scripting language developers use to create websites and web applications. PHP can connect to databases to display content on websites.
+
+### What is Scope in JavaScript? ${\color{none} \space \color{yellow}{V.IMP.}}$
 
 
