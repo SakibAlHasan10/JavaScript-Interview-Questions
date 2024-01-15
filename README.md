@@ -78,3 +78,19 @@ Both are comparison operators. The difference between both the operators is that
 <img src='./Images/client-and-server-side.png' alt='Hoisting' height=''>
 </div>
 
+#### Client-side programming languages
+- People in careers like web design and user experience design focus on client-side development. Client-side developers use specific programming languages, including:
+- 1. <b>HTML</b>: HTML, which stands for hypertext markup language, is the standard language for web development. HTML builds a website's structure and renders a website in a browser.
+- 2. <b>CSS</b>: CSS, which stands for Cascading Style Sheets, is a design language that developers use to add visual design elements to a website coded in HTML. Developers can use CSS to make their websites look more visually appealing on users' devices.
+- 3. <b>JavaScript</b>: JavaScript is a scripting language that developers can use for web development, web applications and other purposes. Developers can use JavaScript to make websites dynamic and interactive.
+- 4. <b>VBScript</b>: VBScript is a client-side scripting language that certain browsers support. Developers can use VBScript to add interactive elements to websites.
+
+#### Server-side programming languages
+Software developers, database administrators and web developers typically use server-side development. Server-side developers can use many programming languages, including:
+
+- 1. <b>Java</b>: Java is an object-oriented programming language that developers can use for a variety of purposes, including software and application development.
+- 2. <b>Python</b>: Python is an object-oriented, general-purpose programming language that developers can use for web development, application development, operating systems and other purposes. Python has applications in data science, finance, computing and other fields.
+- 3. <b>SQL</b>: SQL, which stands for Structured Query Language, is the industry-standard language for interacting with databases. Developers can use SQL to manipulate data in databases, including updating, retrieving and deleting data.
+- 4. <b>PHP</b>: PHP, which stands for Hypertext Preprocessor, is a scripting language developers use to create websites and web applications. PHP can connect to databases to display content on websites.
+
+
