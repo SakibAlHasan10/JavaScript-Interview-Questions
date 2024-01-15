@@ -11,9 +11,9 @@
 
 JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for web pages. It is well-known for the development of web pages, and many non-browser environments also use it.  That is used for converting static web pages to interactive and dynamic web pages.
 
-<div align="center">
+<div align="center" background="#fff">
 
-#### JavaScript Engines
+#### ${\color{none} \space \color{JavaScript Engines}{V.IMP.}}$
 
 <img src='./Images/js-enging-browser.png' alt='Hoisting' height=''>
 </div>
