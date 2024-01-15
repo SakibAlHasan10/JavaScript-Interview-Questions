@@ -1,16 +1,14 @@
-<style>
-span{color:yellow !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
 <div align="center">
 <img src='./Images/js.png' alt='JavaScript' height='80'>
+
+<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$ -->
 
 # JavaScript Questions
 </div>
 
-### 1. what is JavaScript what is the role of JavaScript engine <span>$${\color{yellow}V.IMP.}$$</span>
+## $${\color{}1. what is JavaScript what is the role of JavaScript engine \space \color{yellow}{V.IMP.}}$$
+
+###  <span>$${\color{yellow}V.IMP.}$$</span>
 
 JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for web pages. It is well-known for the development of web pages, and many non-browser environments also use it.
 
