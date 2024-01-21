@@ -102,3 +102,4 @@ Software developers, database administrators and web developers typically use se
 ### 8. What is Scope in JavaScript? ${\color{none} \space \color{yellow}{V.IMP.}}$
 
 
+### 9. 
